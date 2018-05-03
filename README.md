@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hello World!
+
+I'm Amanda, I like dogs and showtunes. 
